@@ -1,3 +1,3 @@
-# LuckedIn privacy policy
+# LuckyFill privacy policy
 
-The privacy policy of the LuckedIn Chrome extension, published at https://liangchenli0525.github.io/luckedin-privacy/
+The privacy policy of the LuckyFill Chrome extension, published at https://liangchenli0525.github.io/luckyfill-privacy/
